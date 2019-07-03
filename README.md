@@ -10,7 +10,7 @@ Project developed for study in the Rocketseat Bootcamp.
 - MomentJS [MomentJS](https://momentjs.com/)
 - Font Awesome [font-awesome](https://fontawesome.com/)
 
-![](https://github.com/caioorg/github-compare-react/blob/master/example.gif)
+![](https://github.com/Seveshy/gif/blob/master/screencast-localhost_3000-20190.gif)
 
 ## Getting Started
 
