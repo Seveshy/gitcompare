@@ -2,7 +2,7 @@
 
 Project developed for study in the Rocketseat Bootcamp.
 
-# Bibliotecas usadas
+# Used libraries
 
 - Create React App by [create-react-app](https://github.com/facebook/create-react-app)
 - Axios by [axios](https://github.com/axios/axios)
