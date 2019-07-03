@@ -25,5 +25,3 @@ Project developed for study in the Rocketseat Bootcamp.
 # Start project development
   yarn start
 ```
-
-## License
